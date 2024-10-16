@@ -7,7 +7,7 @@ export default function Footer() {
         <p>&copy; 2024 Jess Garcia. All Rights Reserved.</p>
         <div className="flex justify-center">
           <a
-            className="flex items-center justify-center rounded-full mt-5 h-14 w-14 bg-white text-white px-5 py-2 text-2xl hover:bg-opacity-70"
+            className="flex items-center justify-center rounded-full mt-5 h-14 w-14 bg-black text-white px-5 py-2 text-2xl hover:bg-opacity-70"
             href="https://github.com/Garcia-Jess"
             target="_blank"
             rel="noopener noreferrer"
